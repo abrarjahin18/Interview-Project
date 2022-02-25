@@ -1,0 +1,12 @@
+G:\.Net projects\interview project\User Management\User Management.Databases\bin\Debug\netstandard2.1\User Management.Databases.deps.json
+G:\.Net projects\interview project\User Management\User Management.Databases\bin\Debug\netstandard2.1\User Management.Databases.dll
+G:\.Net projects\interview project\User Management\User Management.Databases\bin\Debug\netstandard2.1\User Management.Databases.pdb
+G:\.Net projects\interview project\User Management\User Management.Databases\bin\Debug\netstandard2.1\User Management.Models.dll
+G:\.Net projects\interview project\User Management\User Management.Databases\bin\Debug\netstandard2.1\User Management.Models.pdb
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.csproj.AssemblyReference.cache
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.AssemblyInfoInputs.cache
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.AssemblyInfo.cs
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.csproj.CoreCompileInputs.cache
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.csproj.CopyComplete
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.dll
+G:\.Net projects\interview project\User Management\User Management.Databases\obj\Debug\netstandard2.1\User Management.Databases.pdb

@@ -1,0 +1,27 @@
+﻿@model User_Management.Models.User.RegisterViewModel
+<h4>Register</h4>
+
+<form method="post">
+
+    <p>
+        Email: <input asp-for="Email" />
+    </p>
+
+    <p>
+        phonenumber: <input asp-for="PhoneNumber" />
+    </p>
+
+    <p>
+        password: <input asp-for="password" />
+    </p>
+
+    
+    <div class="form-group">
+        <label for="name">Select Role</label>
+        <select asp-for="Name" class="form-control" asp-items="@Model.Names"></select>
+
+    </div>
+    
+
+    <input type="submit" value="Register" />
+</form>

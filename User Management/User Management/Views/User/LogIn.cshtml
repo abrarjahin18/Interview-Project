@@ -1,0 +1,13 @@
+﻿@model User_Management.Models.User.LogInViewModel
+<h4>LogIn</h4>
+
+<form method="post">
+    <p>
+        user Name: <input asp-for="UserName" />
+    </p>
+    <p>
+        Password: <input asp-for="Password" />
+    </p>
+
+    <input type="submit" value="Login" />
+</form>

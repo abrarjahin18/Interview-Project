@@ -1,0 +1,92 @@
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\appsettings.Development.json
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\appsettings.json
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.exe
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.deps.json
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.runtimeconfig.json
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.runtimeconfig.dev.json
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\ref\User Management.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Views.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Views.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Configurations.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Databases.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Models.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Configurations.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Databases.pdb
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\User Management.Models.pdb
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.csproj.AssemblyReference.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.AssemblyInfoInputs.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.AssemblyInfo.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.csproj.CoreCompileInputs.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.MvcApplicationPartsAssemblyInfo.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.RazorAssemblyInfo.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.RazorAssemblyInfo.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\staticwebassets\User Management.StaticWebAssets.Manifest.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\staticwebassets\User Management.StaticWebAssets.xml
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\scopedcss\bundle\User Management.styles.css
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.TagHelpers.input.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.TagHelpers.output.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.RazorCoreGenerate.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.RazorTargetAssemblyInfo.cache
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.RazorTargetAssemblyInfo.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.Views.pdb
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.csproj.CopyComplete
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.dll
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\ref\User Management.dll
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.pdb
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\User Management.genruntimeconfig.cache
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Humanizer.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\User\AddRole.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\User\LogIn.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\MailKit.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\MimeKit.dll
+G:\.Net projects\interview project\User Management\User Management\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Customer\CustomerMainPage.cshtml.g.cs
+G:\.Net projects\interview project\User Management\User Management\obj\Debug\net5.0\Razor\Views\Shared\logInLogoutPartial.cshtml.g.cs

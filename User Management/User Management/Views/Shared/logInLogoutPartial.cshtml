@@ -1,0 +1,25 @@
+﻿
+@using Microsoft.AspNetCore.Identity
+@using User_Management.Models.EntityModels.Identity
+@inject SignInManager<ProjectUser> SignInManager
+@inject UserManager<ProjectUser> UserManager
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" title="Manage">Hello @User.Identity.Name!</a>
+    </li>
+    <li class="nav-item">
+        <form class="form-inline" asp-action="SignOut" asp-controller="User">
+            <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="btn btn-outline-primary" asp-controller="User" asp-action="Register">register</a>
+    </li>
+    <li class="nav-item">
+        <a class="btn btn-primary" asp-controller="User" asp-action="LogIn">Log In</a>
+    </li>
+}
